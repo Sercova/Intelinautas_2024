@@ -1,0 +1,284 @@
+{
+    "Challenge": {
+        "elementsQty": 3,
+        "questionType": "test",
+        "ElementFormatsList": [
+            {
+                "itemsQty": 2,
+                "ItemFormatsList": [
+                    {
+                        "itemType": "Solid",
+                        "Behaviors": [
+                            {
+                                "type": "Sides",
+                                "initialValue": 4.0,
+                                "increment": 3.0
+                            },
+                            {
+                                "type": "Radius",
+                                "initialValue": 0.38,
+                                "increment": 0.75
+                            },
+                            {
+                                "type": "isOn",
+                                "initialValue": 0.38,
+                                "increment": 0.25
+                            }
+                        ]
+                    },
+                    {
+                        "itemType": "Outline",
+                        "Behaviors": [
+                            {
+                                "type": "Sides",
+                                "initialValue": 3.0,
+                                "increment": 2.0
+                            },
+                            {
+                                "type": "Radius",
+                                "initialValue": 0.5,
+                                "increment": 0.12
+                            },
+                            {
+                                "type": "isOn",
+                                "initialValue": 0.75,
+                                "increment": 0.25
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "Alternatives": {
+        "elementsQty": 5,
+        "questionType": "test",
+        "ElementFormatsList": [
+            {
+                "itemsQty": 2,
+                "ItemFormatsList": [
+                    {
+                        "itemType": "Solid",
+                        "Behaviors": [
+                            {
+                                "type": "Sides",
+                                "initialValue": 4.0,
+                                "increment": 3.0
+                            },
+                            {
+                                "type": "Radius",
+                                "initialValue": 0.38,
+                                "increment": 0.75
+                            },
+                            {
+                                "type": "isOn",
+                                "initialValue": 0.38,
+                                "increment": 0.25
+                            }
+                        ]
+                    },
+                    {
+                        "itemType": "Outline",
+                        "Behaviors": [
+                            {
+                                "type": "Sides",
+                                "initialValue": 3.0,
+                                "increment": 2.0
+                            },
+                            {
+                                "type": "Radius",
+                                "initialValue": 0.5,
+                                "increment": 0.12
+                            },
+                            {
+                                "type": "isOn",
+                                "initialValue": 0.75,
+                                "increment": 0.25
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "itemsQty": 2,
+                "ItemFormatsList": [
+                    {
+                        "itemType": "Solid",
+                        "Behaviors": [
+                            {
+                                "type": "Sides",
+                                "initialValue": 3.0,
+                                "increment": 3.0
+                            },
+                            {
+                                "type": "Radius",
+                                "initialValue": 0.75,
+                                "increment": 0.75
+                            },
+                            {
+                                "type": "isOn",
+                                "initialValue": 1.38,
+                                "increment": 0.25
+                            }
+                        ]
+                    },
+                    {
+                        "itemType": "Outline",
+                        "Behaviors": [
+                            {
+                                "type": "Sides",
+                                "initialValue": 2.0,
+                                "increment": 2.0
+                            },
+                            {
+                                "type": "Radius",
+                                "initialValue": 0.98,
+                                "increment": 0.12
+                            },
+                            {
+                                "type": "isOn",
+                                "initialValue": 1.75,
+                                "increment": 0.25
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "itemsQty": 2,
+                "ItemFormatsList": [
+                    {
+                        "itemType": "Solid",
+                        "Behaviors": [
+                            {
+                                "type": "Sides",
+                                "initialValue": 3.0,
+                                "increment": 3.0
+                            },
+                            {
+                                "type": "Radius",
+                                "initialValue": 1.5,
+                                "increment": 0.75
+                            },
+                            {
+                                "type": "isOn",
+                                "initialValue": 1.63,
+                                "increment": 0.25
+                            }
+                        ]
+                    },
+                    {
+                        "itemType": "Outline",
+                        "Behaviors": [
+                            {
+                                "type": "Sides",
+                                "initialValue": 2.0,
+                                "increment": 2.0
+                            },
+                            {
+                                "type": "Radius",
+                                "initialValue": 1.1,
+                                "increment": 0.12
+                            },
+                            {
+                                "type": "isOn",
+                                "initialValue": 2.0,
+                                "increment": 0.25
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "itemsQty": 2,
+                "ItemFormatsList": [
+                    {
+                        "itemType": "Solid",
+                        "Behaviors": [
+                            {
+                                "type": "Sides",
+                                "initialValue": 3.0,
+                                "increment": 3.0
+                            },
+                            {
+                                "type": "Radius",
+                                "initialValue": 2.25,
+                                "increment": 0.75
+                            },
+                            {
+                                "type": "isOn",
+                                "initialValue": 1.88,
+                                "increment": 0.25
+                            }
+                        ]
+                    },
+                    {
+                        "itemType": "Outline",
+                        "Behaviors": [
+                            {
+                                "type": "Sides",
+                                "initialValue": 2.0,
+                                "increment": 2.0
+                            },
+                            {
+                                "type": "Radius",
+                                "initialValue": 1.22,
+                                "increment": 0.12
+                            },
+                            {
+                                "type": "isOn",
+                                "initialValue": 2.25,
+                                "increment": 0.25
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "itemsQty": 2,
+                "ItemFormatsList": [
+                    {
+                        "itemType": "Solid",
+                        "Behaviors": [
+                            {
+                                "type": "Sides",
+                                "initialValue": 3.0,
+                                "increment": 3.0
+                            },
+                            {
+                                "type": "Radius",
+                                "initialValue": 3.0,
+                                "increment": 0.75
+                            },
+                            {
+                                "type": "isOn",
+                                "initialValue": 2.13,
+                                "increment": 0.25
+                            }
+                        ]
+                    },
+                    {
+                        "itemType": "Outline",
+                        "Behaviors": [
+                            {
+                                "type": "Sides",
+                                "initialValue": 2.0,
+                                "increment": 2.0
+                            },
+                            {
+                                "type": "Radius",
+                                "initialValue": 1.34,
+                                "increment": 0.12
+                            },
+                            {
+                                "type": "isOn",
+                                "initialValue": 2.5,
+                                "increment": 0.25
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

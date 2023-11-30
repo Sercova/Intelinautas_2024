@@ -1,0 +1,12 @@
+﻿[
+  {
+    "type": "Lado",
+    "ValorInicial": 6,
+    "Incremento": 1
+  },
+  {
+    "type": "Radio",
+    "ValorInicial": 0.69,
+    "Incremento": 0.06
+  }
+]

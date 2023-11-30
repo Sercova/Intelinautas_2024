@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - Motivator
+  - Block
+  - CheckPoint
+  - Abbys
+  - Valuable
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - GroundLayer
+  - Water
+  - UI
+  - Intelli_Obstacles
+  - Intelli_Player
+  - Intelli_Motivator
+  - Intelli_Facilitator
+  - Intelli_Alternative
+  - Intelli_Motivator_Sensor
+  - Intelli_Player_Ground_Detect
+  - Intelli_Creatures
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

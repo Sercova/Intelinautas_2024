@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/TutorialRoom0.1.unity
+    guid: db3cc7c67b73f2748b0e0341bd69d15a
+  - enabled: 1
+    path: Assets/Scenes/TutorialRoom0.2.unity
+    guid: 2d1898e153205004ea7d2fffd2151924
+  - enabled: 1
+    path: Assets/Scenes/Room001.unity
+    guid: f0bbbda3ae9be2b4ca09cf08521ca25e
+  - enabled: 1
+    path: Assets/Scenes/Room002.unity
+    guid: ee5e030c154371e45b385916e93576eb
+  - enabled: 1
+    path: Assets/Scenes/Chllg_R001D01.unity
+    guid: fdd780d0436b8d541ab2b66382cd04b0
+  - enabled: 1
+    path: Assets/Scenes/Chllg_R001D02.unity
+    guid: 5c826de65abf28541a30a6cba5ff3de6
+  - enabled: 1
+    path: Assets/Scenes/Chllg_R001D03.unity
+    guid: e20ccd81768074d4a9e0f295b4923076
+  - enabled: 1
+    path: Assets/Scenes/Chllg_R001D04.unity
+    guid: c9462d2745b6e5a4c8d889725a71c2de
+  - enabled: 1
+    path: Assets/Scenes/Chllg_R001D05.unity
+    guid: 821b362e97f6ad644b324225ced5b004
+  - enabled: 1
+    path: Assets/Scenes/Chllg_R001D06.unity
+    guid: 12e4a9eb182dffd4193d08431eaaf339
+  m_configObjects:
+    com.unity.input.settings: {fileID: 11400000, guid: 43b61994cd8334549b62d05e688111f8, type: 2}

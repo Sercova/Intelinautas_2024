@@ -1,0 +1,2892 @@
+fileFormatVersion: 2
+guid: 5806efd75f00a654da48b0de2e0a78a6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3759248589988931996
+    second: MarioBross_Sprites_0
+  - first:
+      213: 4304315205137050824
+    second: MarioBross_Sprites_1
+  - first:
+      213: 2913131034045835779
+    second: MarioBross_Sprites_2
+  - first:
+      213: -119906730902057742
+    second: MarioBross_Sprites_3
+  - first:
+      213: 986924395683373567
+    second: MarioBross_Sprites_4
+  - first:
+      213: 2517706676229642163
+    second: MarioBross_Sprites_5
+  - first:
+      213: 8386053254914999989
+    second: MarioBross_Sprites_6
+  - first:
+      213: -6960952807498480436
+    second: MarioBross_Sprites_7
+  - first:
+      213: 2633193648970676453
+    second: MarioBross_Sprites_8
+  - first:
+      213: 4900865568069861036
+    second: MarioBross_Sprites_9
+  - first:
+      213: -5941748588720596044
+    second: MarioBross_Sprites_10
+  - first:
+      213: -8727588412645145954
+    second: MarioBross_Sprites_11
+  - first:
+      213: -3248001662565518610
+    second: MarioBross_Sprites_12
+  - first:
+      213: -7995498106179155843
+    second: MarioBross_Sprites_13
+  - first:
+      213: -5540452845136486098
+    second: MarioBross_Sprites_14
+  - first:
+      213: 595777367497122362
+    second: MarioBross_Sprites_15
+  - first:
+      213: 167305026705679947
+    second: MarioBross_Sprites_16
+  - first:
+      213: 1199457619891272872
+    second: MarioBross_Sprites_17
+  - first:
+      213: -8879132190453081053
+    second: MarioBross_Sprites_18
+  - first:
+      213: -5559758078837345747
+    second: MarioBross_Sprites_19
+  - first:
+      213: -8878951464793374629
+    second: MarioBross_Sprites_20
+  - first:
+      213: 7006037539085220031
+    second: MarioBross_Sprites_21
+  - first:
+      213: -3679779482614811637
+    second: MarioBross_Sprites_22
+  - first:
+      213: 5742458171808111753
+    second: MarioBross_Sprites_23
+  - first:
+      213: -7390172707636814772
+    second: MarioBross_Sprites_24
+  - first:
+      213: -4963099683787714680
+    second: MarioBross_Sprites_25
+  - first:
+      213: -7386655304503013571
+    second: MarioBross_Sprites_26
+  - first:
+      213: -8128214465857757848
+    second: MarioBross_Sprites_27
+  - first:
+      213: -1410022266472713683
+    second: MarioBross_Sprites_28
+  - first:
+      213: -4451497834870845124
+    second: MarioBross_Sprites_29
+  - first:
+      213: -5654033395187461196
+    second: MarioBross_Sprites_30
+  - first:
+      213: 6001046082052351792
+    second: MarioBross_Sprites_31
+  - first:
+      213: 8245661905517853451
+    second: MarioBross_Sprites_32
+  - first:
+      213: 4104117232408740836
+    second: MarioBross_Sprites_33
+  - first:
+      213: 5621791876384215101
+    second: MarioBross_Sprites_34
+  - first:
+      213: 2912792124268631855
+    second: MarioBross_Sprites_35
+  - first:
+      213: 2836711739467988938
+    second: MarioBross_Sprites_36
+  - first:
+      213: 2939512440622761264
+    second: MarioBross_Sprites_37
+  - first:
+      213: 7615453848249523487
+    second: MarioBross_Sprites_38
+  - first:
+      213: 7748617342383002265
+    second: MarioBross_Sprites_39
+  - first:
+      213: -8873277509917080690
+    second: MarioBross_Sprites_40
+  - first:
+      213: -6306969631547653795
+    second: MarioBross_Sprites_41
+  - first:
+      213: -592701948191361146
+    second: MarioBross_Sprites_42
+  - first:
+      213: -8098976276633121732
+    second: MarioBross_Sprites_43
+  - first:
+      213: 4041185148498078942
+    second: MarioBross_Sprites_44
+  - first:
+      213: 5275593424679689479
+    second: MarioBross_Sprites_45
+  - first:
+      213: -3526965274322600033
+    second: MarioBross_Sprites_46
+  - first:
+      213: -1598019333019290036
+    second: MarioBross_Sprites_47
+  - first:
+      213: -7925955751315175269
+    second: MarioBross_Sprites_48
+  - first:
+      213: 245589045898349282
+    second: MarioBross_Sprites_49
+  - first:
+      213: 1986482730883835033
+    second: MarioBross_Sprites_50
+  - first:
+      213: 346110263860836804
+    second: MarioBross_Sprites_51
+  - first:
+      213: 1025840871006412077
+    second: MarioBross_Sprites_52
+  - first:
+      213: -6749383888898416010
+    second: MarioBross_Sprites_53
+  - first:
+      213: -6638567703845536735
+    second: MarioBross_Sprites_54
+  - first:
+      213: -980923838580426531
+    second: MarioBross_Sprites_55
+  - first:
+      213: -3475418557893131837
+    second: MarioBross_Sprites_56
+  - first:
+      213: -6642686798643412522
+    second: MarioBross_Sprites_57
+  - first:
+      213: -1794276984048410459
+    second: MarioBross_Sprites_58
+  - first:
+      213: 3991396990716888664
+    second: MarioBross_Sprites_59
+  - first:
+      213: -8228033030996933286
+    second: MarioBross_Sprites_60
+  - first:
+      213: -8418154121488887759
+    second: MarioBross_Sprites_61
+  - first:
+      213: -79098879265016793
+    second: MarioBross_Sprites_62
+  - first:
+      213: -4076878836930963803
+    second: MarioBross_Sprites_63
+  - first:
+      213: -3291965971671084058
+    second: MarioBross_Sprites_64
+  - first:
+      213: 727700945207365949
+    second: MarioBross_Sprites_65
+  - first:
+      213: -5774362164587703226
+    second: MarioBross_Sprites_66
+  - first:
+      213: -2401708218344198759
+    second: MarioBross_Sprites_67
+  - first:
+      213: 3241173991200853510
+    second: MarioBross_Sprites_68
+  - first:
+      213: -216217460883488597
+    second: MarioBross_Sprites_69
+  - first:
+      213: -355903609749815567
+    second: MarioBross_Sprites_70
+  - first:
+      213: -1109203264892638542
+    second: MarioBross_Sprites_71
+  - first:
+      213: 8749423340790490563
+    second: MarioBross_Sprites_72
+  - first:
+      213: 1481084810161706838
+    second: MarioBross_Sprites_73
+  - first:
+      213: -7795572964234313599
+    second: MarioBross_Sprites_74
+  - first:
+      213: 5016208238213709722
+    second: MarioBross_Sprites_75
+  - first:
+      213: -775365259131948680
+    second: MarioBross_Sprites_76
+  - first:
+      213: 6210143902117965816
+    second: MarioBross_Sprites_77
+  - first:
+      213: 2490575073282486405
+    second: MarioBross_Sprites_78
+  - first:
+      213: -3213466734331054157
+    second: MarioBross_Sprites_79
+  - first:
+      213: 8629673327989395068
+    second: MarioBross_Sprites_80
+  - first:
+      213: 4102790550044153772
+    second: MarioBross_Sprites_81
+  - first:
+      213: -1606034106055837260
+    second: MarioBross_Sprites_82
+  - first:
+      213: -7423642906585875582
+    second: MarioBross_Sprites_83
+  - first:
+      213: -1339136860697728198
+    second: MarioBross_Sprites_84
+  - first:
+      213: 6525026840037916972
+    second: MarioBross_Sprites_85
+  - first:
+      213: 6217887931850020126
+    second: MarioBross_Sprites_86
+  - first:
+      213: 3139556270727519427
+    second: MarioBross_Sprites_87
+  - first:
+      213: 4322681227848017750
+    second: MarioBross_Sprites_88
+  - first:
+      213: 4914203825589811281
+    second: MarioBross_Sprites_89
+  - first:
+      213: -3998798576961260649
+    second: MarioBross_Sprites_90
+  - first:
+      213: -2563127024788737476
+    second: MarioBross_Sprites_91
+  - first:
+      213: 5599390671181283119
+    second: MarioBross_Sprites_92
+  - first:
+      213: 4184774307702027348
+    second: MarioBross_Sprites_93
+  - first:
+      213: 5823259505996331772
+    second: MarioBross_Sprites_94
+  - first:
+      213: -2582022009821300145
+    second: MarioBross_Sprites_95
+  - first:
+      213: -3684288190816714477
+    second: MarioBross_Sprites_96
+  - first:
+      213: -2167479658255354135
+    second: MarioBross_Sprites_97
+  - first:
+      213: 8864279859066581151
+    second: MarioBross_Sprites_98
+  - first:
+      213: -7932280435693339410
+    second: MarioBross_Sprites_99
+  - first:
+      213: 267769370194775118
+    second: MarioBross_Sprites_100
+  - first:
+      213: -6200371495975676708
+    second: MarioBross_Sprites_101
+  - first:
+      213: -5559435906575003027
+    second: MarioBross_Sprites_102
+  - first:
+      213: -3696556992141051911
+    second: MarioBross_Sprites_103
+  - first:
+      213: 621332552506345431
+    second: MarioBross_Sprites_104
+  - first:
+      213: 4731511329470688206
+    second: MarioBross_Sprites_105
+  - first:
+      213: -2570522659861170145
+    second: MarioBross_Sprites_106
+  - first:
+      213: 3922209890779095831
+    second: MarioBross_Sprites_107
+  - first:
+      213: -6124972660078176124
+    second: MarioBross_Sprites_108
+  - first:
+      213: 8848842810739255917
+    second: MarioBross_Sprites_109
+  - first:
+      213: -3999382023407370384
+    second: MarioBross_Sprites_110
+  - first:
+      213: -8871576611071129192
+    second: MarioBross_Sprites_111
+  - first:
+      213: 3531029326656665240
+    second: MarioBross_Sprites_112
+  - first:
+      213: 5946933106774207892
+    second: MarioBross_Sprites_113
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MarioBross_Sprites_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 411
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c99adacdca88b2430800000000000000
+      internalID: 3759248589988931996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioBross_Sprites_1
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 411
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cca183bfdffbbb30800000000000000
+      internalID: 4304315205137050824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioBross_Sprites_2
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 410
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30ae774bd358d6820800000000000000
+      internalID: 2913131034045835779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioBross_Sprites_3
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 410
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fc876aa671065ef0800000000000000
+      internalID: -119906730902057742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioBross_Sprites_4
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 410
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff1efd8428242bd00800000000000000
+      internalID: 986924395683373567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioBross_Sprites_5
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 411
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b71c45f1e0b0f220800000000000000
+      internalID: 2517706676229642163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioBross_Sprites_6
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 410
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b687be010f316470800000000000000
+      internalID: 8386053254914999989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioBross_Sprites_7
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 404
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc48bc26d4ab56f90800000000000000
+      internalID: -6960952807498480436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioBross_Sprites_8
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 404
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e836b72cabfa8420800000000000000
+      internalID: 2633193648970676453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioBross_Sprites_9
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 407
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cae3fbca44f530440800000000000000
+      internalID: 4900865568069861036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioBross_Sprites_10
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 370
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bb51a8a32baa8da0800000000000000
+      internalID: -5941748588720596044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioBross_Sprites_11
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 370
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e928876549061e680800000000000000
+      internalID: -8727588412645145954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioBross_Sprites_12
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 370
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee277e052b7cce2d0800000000000000
+      internalID: -3248001662565518610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioBross_Sprites_13
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 370
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7802ea95d84a0190800000000000000
+      internalID: -7995498106179155843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioBross_Sprites_14
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 371
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2166deed7b5c13b0800000000000000
+      internalID: -5540452845136486098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioBross_Sprites_15
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 370
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3222e2fb50a44800800000000000000
+      internalID: 595777367497122362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioBross_Sprites_16
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 366
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b46eded0903625200800000000000000
+      internalID: 167305026705679947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioBross_Sprites_17
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 368
+        width: 38
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ac31cca95455a010800000000000000
+      internalID: 1199457619891272872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioBross_Sprites_18
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 373
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32cde42015cf6c480800000000000000
+      internalID: -8879132190453081053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioBross_Sprites_19
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 323
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d22bac1fb75c7d2b0800000000000000
+      internalID: -5559758078837345747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioBross_Sprites_20
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 323
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b508e0b7fa0a7c480800000000000000
+      internalID: -8878951464793374629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioBross_Sprites_21
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 324
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb8f930b5027a3160800000000000000
+      internalID: 7006037539085220031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioBross_Sprites_22
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 323
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0439fe8e0cceecc0800000000000000
+      internalID: -3679779482614811637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioBross_Sprites_23
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 323
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98c592c484f41bf40800000000000000
+      internalID: 5742458171808111753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioBross_Sprites_24
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 325
+        width: 14
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4c5584c315d07990800000000000000
+      internalID: -7390172707636814772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioBross_Sprites_25
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 324
+        width: 14
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88fcafa12278f1bb0800000000000000
+      internalID: -4963099683787714680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioBross_Sprites_26
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 323
+        width: 15
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3fc7d003245d7990800000000000000
+      internalID: -7386655304503013571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioBross_Sprites_27
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 326
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86d5b582208c23f80800000000000000
+      internalID: -8128214465857757848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioBross_Sprites_28
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 327
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d22b08128389e6ce0800000000000000
+      internalID: -1410022266472713683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioBross_Sprites_29
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 327
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c315a12ed4a1932c0800000000000000
+      internalID: -4451497834870845124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioBross_Sprites_30
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 284
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b3d7ab5596d881b0800000000000000
+      internalID: -5654033395187461196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioBross_Sprites_31
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 284
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 037ea71ed9ff74350800000000000000
+      internalID: 6001046082052351792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioBross_Sprites_32
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 283
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0bbc50d0d97e6270800000000000000
+      internalID: 8245661905517853451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioBross_Sprites_33
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 287
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e3484ad0e0c4f830800000000000000
+      internalID: 4104117232408740836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioBross_Sprites_34
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 285
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d30de011ded940e40800000000000000
+      internalID: 5621791876384215101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioBross_Sprites_35
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 285
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f27569f11015c6820800000000000000
+      internalID: 2912792124268631855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioBross_Sprites_36
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 285
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acf7b292c460e5720800000000000000
+      internalID: 2836711739467988938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioBross_Sprites_37
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 287
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03549249dfe3bc820800000000000000
+      internalID: 2939512440622761264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioBross_Sprites_38
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 287
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1d5b443de68fa960800000000000000
+      internalID: 7615453848249523487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioBross_Sprites_39
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 287
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9929b214b6e988b60800000000000000
+      internalID: 7748617342383002265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioBross_Sprites_40
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 287
+        width: 40
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e830eeb0e19cbd480800000000000000
+      internalID: -8873277509917080690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioBross_Sprites_41
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 243
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d510d6e29842978a0800000000000000
+      internalID: -6306969631547653795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioBross_Sprites_42
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 243
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6873f58e7bc46c7f0800000000000000
+      internalID: -592701948191361146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioBross_Sprites_43
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 244
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3c87f29cf7aa9f80800000000000000
+      internalID: -8098976276633121732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioBross_Sprites_44
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 243
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edcefcf3b7c251830800000000000000
+      internalID: 4041185148498078942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioBross_Sprites_45
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 243
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70d5b69b44ca63940800000000000000
+      internalID: 5275593424679689479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioBross_Sprites_46
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 245
+        width: 14
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9ffcd805c3bd0fc0800000000000000
+      internalID: -3526965274322600033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioBross_Sprites_47
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 244
+        width: 14
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c46bd2f12e1b2d9e0800000000000000
+      internalID: -1598019333019290036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioBross_Sprites_48
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 243
+        width: 15
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b980569dc39510290800000000000000
+      internalID: -7925955751315175269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioBross_Sprites_49
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 246
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ea8f71afe1886300800000000000000
+      internalID: 245589045898349282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioBross_Sprites_50
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 246
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99467c6d487619b10800000000000000
+      internalID: 1986482730883835033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioBross_Sprites_51
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 246
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c9ba828371adc400800000000000000
+      internalID: 346110263860836804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioBross_Sprites_52
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 204
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2d1a6846d48c3e00800000000000000
+      internalID: 1025840871006412077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioBross_Sprites_53
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 204
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6722771ec1f5552a0800000000000000
+      internalID: -6749383888898416010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioBross_Sprites_54
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 203
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12cf7e298d11fd3a0800000000000000
+      internalID: -6638567703845536735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioBross_Sprites_55
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 207
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd873b947fe0362f0800000000000000
+      internalID: -980923838580426531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioBross_Sprites_56
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 205
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c1caf23c35d4cfc0800000000000000
+      internalID: -3475418557893131837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioBross_Sprites_57
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 205
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d1cea41d8f60d3a0800000000000000
+      internalID: -6642686798643412522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioBross_Sprites_58
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 205
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a0a229e6927917e0800000000000000
+      internalID: -1794276984048410459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioBross_Sprites_59
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 203
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8564e3d6a6a446730800000000000000
+      internalID: 3991396990716888664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioBross_Sprites_60
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 202
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a554f336d8720dd80800000000000000
+      internalID: -8228033030996933286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioBross_Sprites_61
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 170
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1301a248d65bc2b80800000000000000
+      internalID: -8418154121488887759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioBross_Sprites_62
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 170
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 724f6470dfbf6eef0800000000000000
+      internalID: -79098879265016793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioBross_Sprites_63
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 174
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a61c6c4c440c67c0800000000000000
+      internalID: -4076878836930963803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioBross_Sprites_64
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 167
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e31fdde3669052d0800000000000000
+      internalID: -3291965971671084058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioBross_Sprites_65
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 166
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d311dc57720591a00800000000000000
+      internalID: 727700945207365949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioBross_Sprites_66
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 166
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6445b4784385ddfa0800000000000000
+      internalID: -5774362164587703226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioBross_Sprites_67
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 167
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99d2577a91b6baed0800000000000000
+      internalID: -2401708218344198759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioBross_Sprites_68
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 171
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60e03c09296fafc20800000000000000
+      internalID: 3241173991200853510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioBross_Sprites_69
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 171
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba08dc96d57dffcf0800000000000000
+      internalID: -216217460883488597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioBross_Sprites_70
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 171
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fe35967d839f0bf0800000000000000
+      internalID: -355903609749815567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioBross_Sprites_71
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 171
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2baee54e1815b90f0800000000000000
+      internalID: -1109203264892638542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioBross_Sprites_72
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 130
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c524590c223c6970800000000000000
+      internalID: 8749423340790490563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioBross_Sprites_73
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 130
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6575ae7a9cedd8410800000000000000
+      internalID: 1481084810161706838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioBross_Sprites_74
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 134
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 180cc2611bf80d390800000000000000
+      internalID: -7795572964234313599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioBross_Sprites_75
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 127
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9fbd1ec0d62d9540800000000000000
+      internalID: 5016208238213709722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioBross_Sprites_76
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 126
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 871f246a7695d35f0800000000000000
+      internalID: -775365259131948680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioBross_Sprites_77
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 126
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ffacc9e9fcde2650800000000000000
+      internalID: 6210143902117965816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioBross_Sprites_78
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 127
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 580f17165dc409220800000000000000
+      internalID: 2490575073282486405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioBross_Sprites_79
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 131
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b7b9a2e7097763d0800000000000000
+      internalID: -3213466734331054157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioBross_Sprites_80
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 131
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7e887a7b22c2c770800000000000000
+      internalID: 8629673327989395068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioBross_Sprites_81
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 131
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca7163b844a00f830800000000000000
+      internalID: 4102790550044153772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioBross_Sprites_82
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 131
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b9316b5d7836b9e0800000000000000
+      internalID: -1606034106055837260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioBross_Sprites_83
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 86
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28bb99dcb1ce9f890800000000000000
+      internalID: -7423642906585875582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioBross_Sprites_84
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 90
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3bea78ce1e6a6de0800000000000000
+      internalID: -1339136860697728198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioBross_Sprites_85
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 90
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c218956075d8d8a50800000000000000
+      internalID: 6525026840037916972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioBross_Sprites_86
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 90
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e15db1751206a4650800000000000000
+      internalID: 6217887931850020126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioBross_Sprites_87
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 90
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cc501d4bc1f19b20800000000000000
+      internalID: 3139556270727519427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioBross_Sprites_88
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 90
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65761279caf3dfb30800000000000000
+      internalID: 4322681227848017750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioBross_Sprites_89
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 87
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1587522c752c23440800000000000000
+      internalID: 4914203825589811281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioBross_Sprites_90
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 87
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 793f2eb71e96188c0800000000000000
+      internalID: -3998798576961260649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioBross_Sprites_91
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 90
+        width: 63
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c32734d0d81fd6cd0800000000000000
+      internalID: -2563127024788737476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioBross_Sprites_92
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 98
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2f756a062805bd40800000000000000
+      internalID: 5599390671181283119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioBross_Sprites_93
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 41
+        width: 15
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 454b2cb9f0e431a30800000000000000
+      internalID: 4184774307702027348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioBross_Sprites_94
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 70
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfaf3d1faaf50d050800000000000000
+      internalID: 5823259505996331772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioBross_Sprites_95
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 46
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4a7c5689a0da2cd0800000000000000
+      internalID: -2582022009821300145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioBross_Sprites_96
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 50
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31104302967cedcc0800000000000000
+      internalID: -3684288190816714477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioBross_Sprites_97
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 51
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e6fdcf0cb09be1e0800000000000000
+      internalID: -2167479658255354135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioBross_Sprites_98
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 50
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f90305d119f340b70800000000000000
+      internalID: 8864279859066581151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioBross_Sprites_99
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 50
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eecb7b388f0eae190800000000000000
+      internalID: -7932280435693339410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioBross_Sprites_100
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 50
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4c8030d2de47b300800000000000000
+      internalID: 267769370194775118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioBross_Sprites_101
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 47
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd499e2b9fad3f9a0800000000000000
+      internalID: -6200371495975676708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioBross_Sprites_102
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 46
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d629b058f7ae8d2b0800000000000000
+      internalID: -5559435906575003027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioBross_Sprites_103
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 46
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f73277300133bcc0800000000000000
+      internalID: -3696556992141051911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioBross_Sprites_104
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 42
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d7078f1aaa6f9800800000000000000
+      internalID: 621332552506345431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioBross_Sprites_105
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecb26db4c74b9a140800000000000000
+      internalID: 4731511329470688206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioBross_Sprites_106
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 1
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f18f1e3924ba35cd0800000000000000
+      internalID: -2570522659861170145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioBross_Sprites_107
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 713696a6d1d7e6630800000000000000
+      internalID: 3922209890779095831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioBross_Sprites_108
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 0
+        width: 31
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4889f0131d9bffaa0800000000000000
+      internalID: -6124972660078176124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioBross_Sprites_109
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 1
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6ae16737a76dca70800000000000000
+      internalID: 8848842810739255917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioBross_Sprites_110
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 11
+        width: 27
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07f78b54d375f78c0800000000000000
+      internalID: -3999382023407370384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioBross_Sprites_111
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 12
+        width: 24
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 899017b6314d1e480800000000000000
+      internalID: -8871576611071129192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioBross_Sprites_112
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 11
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8967bd2e67cb00130800000000000000
+      internalID: 3531029326656665240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioBross_Sprites_113
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 14
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49d69440720c78250800000000000000
+      internalID: 5946933106774207892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

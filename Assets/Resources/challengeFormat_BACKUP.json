@@ -1,0 +1,41 @@
+{
+  "cantidadElementos": 3,
+  "tipoPregunta": "test",
+  "ElementFormatsList": [
+    {
+      "cantidadItem": 2,
+      "ItemFormatsList": [
+        {
+          "itemType": "Outline",
+          "Behaviors": [
+            {
+              "type": "Lado",
+              "valorInicial": 3.0,
+              "incremento": 1.0
+            },
+            {
+              "type": "Radio",
+              "valorInicial": 1.5,
+              "incremento": 0
+            }
+          ]
+        },
+        {
+          "itemType": "Solid",
+          "Behaviors": [
+            {
+              "type": "Lado",
+              "valorInicial": 6.0,
+              "incremento": -1.0
+            },
+            {
+              "type": "Radio",
+              "valorInicial": 0.69,
+              "incremento": 0.06
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
